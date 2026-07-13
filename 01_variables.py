@@ -10,3 +10,14 @@ print(name)
 print(age)
 print(height)
 print(is_learning_python)
+
+
+name = "Vrushal"
+course = "Python"
+lesson_number = 1
+is_practicing = True
+
+print("Name:", name)
+print("Course:", course)
+print("Lesson number:", lesson_number)
+print("Practicing:", is_practicing)
